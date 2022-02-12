@@ -43,13 +43,15 @@ favorite: ✓
 > Blanda ut mjölet i mjölk/grädde och tillsätt när det sjuder  
 > Ta av värmen och rör i ost  
 
-## Montera lasagnen
+## Montera sedan lasagnen
 
 
 ---
 
 * `1 paket` Lasagneplattor
 
+>>> Olja i botten på stora plåten, montera sedan i följande ordning
+>
 > Mozarella på toppen  
 > Ostsås  
 > Plattor  
