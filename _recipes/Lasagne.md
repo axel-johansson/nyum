@@ -50,16 +50,16 @@ favorite: ✓
 
 * `1 paket` Lasagneplattor
 
-> Mozarella på toppen 
-> Ostsås
-> Plattor
-> Köttfärs
-> Ostsås
-> Plattor
-> Köttfärs
-> Ostsås
-> Plattor
-> Ostsås
+> Mozarella på toppen  
+> Ostsås  
+> Plattor  
+> Köttfärs  
+> Ostsås  
+> Plattor  
+> Köttfärs  
+> Ostsås  
+> Plattor  
+> Ostsås  
 
 ---
 
