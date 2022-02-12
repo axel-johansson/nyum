@@ -38,14 +38,15 @@ favorite: ✓
 *  salt & peppar
 
 
-> Smält smör
-> Tillägg 5 dl grädde/möjlk-blandning
-> Blanda ut mjölet i mjölk/grädde och tillsätt när det sjuder
-> Ta av värmen och rör i ost
-
----
+> Smält smör  
+> Tillägg 5 dl grädde/möjlk-blandning  
+> Blanda ut mjölet i mjölk/grädde och tillsätt när det sjuder  
+> Ta av värmen och rör i ost  
 
 ## Montera lasagnen
+
+
+---
 
 * `1 paket` Lasagneplattor
 
