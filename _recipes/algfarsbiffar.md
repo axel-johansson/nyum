@@ -2,7 +2,7 @@
 title: Älgfärsbiffar
 description: Mobergs Älgfärsbiffar
 category: Storkok
-size: 4-6 port
+size: 4-6 portioner
 time: 1.5 timme
 image: algfarsbiffar.png
 

@@ -56,5 +56,3 @@ Picanha - 2h 15 min 57C i vidden.svalna i 8 min kallvatten, olja och på grillen
 
 
 
-
----
