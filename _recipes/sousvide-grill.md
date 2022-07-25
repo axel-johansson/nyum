@@ -57,6 +57,7 @@ time: 1-24h
 * `58 grader` i vattnet
 * `1.5-2 h`
 * `2-3 minuter` på grillen total
+
 > Bra. 
 > Se till att grillen blir riktigt varm l
 > 2 timamr bättre än 1.5. 
@@ -68,6 +69,7 @@ time: 1-24h
 * `57 grader` i vattnet
 * `9 h`
 * `1-3 minuter` på grillen total
+
 > ALLDELES för seg tyckte jag
 > nästan ok om man skar tunna skivor
 >>> längre i vidden nästa gång. 12h? 24?
@@ -78,12 +80,12 @@ time: 1-24h
 * `57 grader` i vattnet
 * `2-2.5h`
 * `1-3 minuter` på grillen total
+
 > BRA!!
 > se till att putsa biten bra
 > kyl innan grill, men inte för mycket
 > pensla med lite olja innan grill
 > lite osäker på tempen - möjligen testa längre, - typ 53-54?
-
 
 ---
 
@@ -102,6 +104,7 @@ time: 1-24h
 * `57 grader` i vattnet
 * `2h 45 min`
 * `1-3 minuter` på grillen total
+
 > Bra. Inte övermört. Kanske kunde kört 3h 15 min.
 > kyl innan grill, men inte för mycket
 > pensla med lite olja innan grill
