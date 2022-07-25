@@ -51,17 +51,17 @@ favorite: ✓
 
 * `1 paket` Lasagneplattor
 
->>> Olja i botten på stora plåten, montera sedan i följande ordning
+>>> Olja i botten på stora plåten, montera sedan i följande ordning (sett ovanifrån)
 >
 > Mozarella på toppen  
 > Ostsås  
-> Plattor  
+>  -- Plattor --  
 > Köttfärs  
 > Ostsås  
-> Plattor  
+>  -- Plattor --    
 > Köttfärs  
 > Ostsås  
-> Plattor  
+>  -- Plattor --    
 > Ostsås  
 
 ---
