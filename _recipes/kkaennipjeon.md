@@ -1,7 +1,7 @@
 ---
 title:  Syntax demo
 original_title: 깻잎전
-category: Korean Food
+category: Z-tech demo
 description: Perilla leaves, stuffed with a pork-based filling, then eggwashed and fried.
 size: 1 serving
 time: 1 hour
