@@ -4,7 +4,7 @@ description: Rödvinsås på ca 1 flaska vin
 category: Sås
 size: 6 port
 time: 1 timme
-image: rödvinsås.png
+image: rodvinsas.png
 
 
 favorite: ✓
