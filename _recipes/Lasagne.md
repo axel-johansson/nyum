@@ -1,6 +1,7 @@
 ---
 title: Lasagne
 description: Lasagne i långpanna
+category: Storkok
 size: 6 port
 time: 1.5 timme
 
