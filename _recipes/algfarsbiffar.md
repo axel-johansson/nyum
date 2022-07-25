@@ -1,17 +1,25 @@
 ---
-title: Lasagne
-description: Lasagne i långpanna
+title: Älgfärsbiffar
+description: Mobergs Älgfärsbiffar
 category: Storkok
-size: 6 port
+size: 4-6 port
 time: 1.5 timme
-image: lasagne.jpg
+image: algfarsbiffar.png
 
 favorite: ✓
----
-
-> Sätt ugnen på 200 grader
 
 ---
+
+* `500 g` älgfärs
+* `1 st` ägg
+* `1 tsk` salt
+* `peppar, nymalen
+* `1 st` gul lök
+* `3 st` enbär
+* `2 dl` vispgrädde
+* `0,5 dl` ströbröd
+* rapsolja, till stekning
+* smör, till stekning
 
 * `800 g` köttfärs
 * `2 klyftor` vitlök
@@ -20,52 +28,3 @@ favorite: ✓
 > Stek köttfärs, riven gul lök & pressad vitlök
 
 ---
-
-* `2 msk` oxfond
-* `1 st` köttbuljongtärning
-* `5 msk` tomatpuré
-* `500 g` krossade tomater
-* `en skvätt` hotsauce
-
-
-> Blanda ned i köttfärsen
-
----
-
-* `100g` smör
-* `5 dl` grädde
-* `5 dl` mjölk
-* `0.5-1 dl` vetemjöl
-* `4 dl` riven ost
-*  salt & peppar
-
-
-> Smält smör  
-> Tillägg 5 dl grädde/möjlk-blandning  
-> Blanda ut mjölet i mjölk/grädde och tillsätt när det sjuder  
-> Ta av värmen och rör i ost  
-
-## Montera sedan lasagnen
-
-
----
-
-* `1 paket` Lasagneplattor
-
->>> Olja i botten på stora plåten, montera sedan i följande ordning (sett ovanifrån)
->
-> Mozarella på toppen  
-> Ostsås  
->  -- Plattor --  
-> Köttfärs  
-> Ostsås  
->  -- Plattor --    
-> Köttfärs  
-> Ostsås  
->  -- Plattor --    
-> Ostsås  
-
----
-
-> Grädda i 200 grade i 25-30 minuter
-

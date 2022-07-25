@@ -3,6 +3,8 @@ title: Sous vide & grill
 description: Sous vide & grill - tider och resultat för olika styckdetaljer och kött
 category: Sous vide
 image: baron.jpg
+size: depends
+time: 1-24h
 ---
 
  Sous vide & finish i het panna eller brännare
