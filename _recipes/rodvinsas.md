@@ -49,10 +49,10 @@ favorite: ✓
 * `ca 1/2 msk` majsstärkelse 
 * `lite` vatten
 
->>>Hit går det bra att förbereda dagen före, såsen blir bara godare om den får vila någon dag i kylen.
-
 > Blanda majsstärkelsen med lite vatten. 
 > Vispa ner redningen i såsen och koka upp. 
+
+>>>Hit går det bra att förbereda dagen före, såsen blir bara godare om den får vila någon dag i kylen.
 
 ## Vid servering
 
