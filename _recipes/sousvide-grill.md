@@ -56,7 +56,7 @@ time: 1-24h
 * `1000 g` Entrecote i skivor 
 * `58 grader` i vattnet
 * `1.5-2 h`
-* `2-3 minuter` på grillen total
+* `2-3 minuter` på grillen
 
 > Bra. 
 > Se till att grillen blir riktigt varm l
@@ -68,7 +68,7 @@ time: 1-24h
 * `700 g` Högrev 
 * `57 grader` i vattnet
 * `9 h`
-* `1-3 minuter` på grillen total
+* `1-3 minuter` på grillen 
 
 > ALLDELES för seg tyckte jag
 > nästan ok om man skar tunna skivor
@@ -79,7 +79,7 @@ time: 1-24h
 * `1000 g` Picanha i skivor 
 * `57 grader` i vattnet
 * `2-2.5h`
-* `1-3 minuter` på grillen total
+* `1-3 minuter` på grillen 
 
 > BRA!!
 > se till att putsa biten bra
@@ -92,7 +92,8 @@ time: 1-24h
 * `600 g` Hjortfilé 
 * `56.5 grader` i vattnet
 * `1 h`
-* `1-3 minuter` på grillen total
+* `1-3 minuter` på grillen 
+
 > BRA!!
 > kyl innan grill, men inte för mycket
 > pensla med lite olja innan grill
@@ -103,7 +104,7 @@ time: 1-24h
 * `750 g` Hjort rulle
 * `57 grader` i vattnet
 * `2h 45 min`
-* `1-3 minuter` på grillen total
+* `1-3 minuter` på grillen 
 
 > Bra. Inte övermört. Kanske kunde kört 3h 15 min.
 > kyl innan grill, men inte för mycket
